@@ -1,5 +1,7 @@
 # Areca Backup
 
+- [GitHub Pages](https://bugtamer.github.io/areca-backup-legacy-documentation) version
+
 ## Documentation
 
 - [areca-backup.org](./areca-backup.org/README.md)
