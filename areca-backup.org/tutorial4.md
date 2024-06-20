@@ -4,7 +4,7 @@
 |-------------------------------|-----------------------------------|-----------------------------------------------|
 | [Home](README.md)             | [Plugins](plugin_list.md)         | [Regular expressions](regex.md)               |
 | [Features](features.md)       | [Versions history](history.md)    | [Translations](documentation.md#translations) |
-| [Plugins](plugin_list.md)     | [Tutorial](tutorial.md)           |                                               |
+| [Plugins](plugin_list.md)     | [Tutorial](tutorial.md)           | [Config backup](config_backup.md)             |
 | [Screenshots](screenshots.md) | [User's manual](documentation.md) |                                               |
 | [Download]                    | [FAQ](faq.md)                     |                                               |
 | [Bug & feature requests]      | [Support & Contact](support.md)   |                                               |

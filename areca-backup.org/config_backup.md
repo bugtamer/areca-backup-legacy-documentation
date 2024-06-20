@@ -1,4 +1,4 @@
-# Areca Backup - Tutorial
+# Areca Backup - Config backup
 
 | About Areca                   | End user documentation            | Technical informations                        |
 |-------------------------------|-----------------------------------|-----------------------------------------------|
@@ -15,27 +15,24 @@
 [Forums]: https://sourceforge.net/projects/areca/forums
 
 
-> These tutorials will show you how to configure, run and handle your archives with Areca.
->
-> Have a look at the "User's Manual" section for more precise informations.
+> Areca stores backup copies of your configuration files on your backup location.
 
 
-## Tutorial sections :
+Areca stores backup copies of your configuration files on your backup location.
+These copies are stored in a subdirectory named "areca_config_backup", as ".bcfg" files.
 
-Section 1 : [Configuring your first target](./tutorial1.md)
+They can be opened directly in Areca (by using the "open workspace" feature).
+Nevertheless, Areca needs to make sure that these files won't be inadvertently modified or corrupted.
+That's why target edition are not permitted in backup workspaces.
 
-Section 2 : [Running your first backup](./tutorial2.md)
-
-Section 3 : [Recovering files from your archives](./tutorial3.md)
-
-Section 4 : [Merging your archives](./tutorial4.md)
-
-Section 5 : [Recovering files when your backup configuration has been lost](./tutorial5.md)
+If you want to modify these backup copies, you must first open a new workspace,
+and then import these files into this new workspace.
+Areca will create copies of these backup files, which will be editable. 
 
 
 ---
 
 [Top] | [Copyright (c) 2005-2015 Olivier PETRUCCI]
 
-[Top]: #areca-backup---tutorial "Go to top of the document"
-[Copyright (c) 2005-2015 Olivier PETRUCCI]: https://areca-backup.org/tutorial.php "Visit the original resource"
+[Top]: #areca-backup---config-backup "Go to top of the document"
+[Copyright (c) 2005-2015 Olivier PETRUCCI]: http://www.areca-backup.org/config_backup.php "Visit the original resource"
