@@ -709,7 +709,7 @@ Areca's policy in terms of task scheduling relies on the scheduler provided by y
 
 Areca provides instead a command-line interface (see above : "[Using The Command-Line Interface](#using-the-command-line-interface)") that can be used to build to create backup scripts (*.bat or *.sh scripts) that can be included in your own scheduler.
 
-- On Windows : You can use the Task Scheduler - http://support.microsoft.com/kb/308569
+- On Windows : You can use the Task Scheduler - [http://support.microsoft.com/kb/308569](https://web.archive.org/web/20150311105443/http://support.microsoft.com/kb/308569)
 - On Linux : You can use Crontab - http://en.wikipedia.org/wiki/Cron
 
 
@@ -720,7 +720,7 @@ If you're not familiar with command-line tools, you can use Areca's built-in wiz
 
 \[[top](#areca-backup---users-manual)\]
 
-Areca is always looking for additional translators. Its translation home page is located here : http://www.areca-backup.org/arcwk/index.php?title=Translations
+Areca is always looking for additional translators. Its translation home page is located here : [http://www.areca-backup.org/arcwk/index.php?title=Translations](https://web.archive.org/web/20151012065719/http://www.areca-backup.org/arcwk/index.php?title=Translations)
 
 
 If you want to add a new language : Make a copy of the english translation ("translations/resources_en.properties" file) and name it after the language you want to add ("de" for german, "it" for italian, ...)
@@ -735,9 +735,9 @@ It is strongly advised to use a translation tool in order to ensure translation 
 For instance :
 
 - "Zaval Java Resource Editor", available at http://www.zaval.org/products/jrc-editor/download/index.html.
-- "Eclipse ResourceBundle Editor Plugin", available at http://www.resourcebundleeditor.com/wiki/Download
+- "Eclipse ResourceBundle Editor Plugin", available at [http://www.resourcebundleeditor.com/wiki/Download](https://web.archive.org/web/20071018041608/http://www.resourcebundleeditor.com/wiki/Download)
 - "PropEdit", available at http://sourceforge.jp/projects/propedit/
-- "Open Language Tools", available at https://open-language-tools.dev.java.net/
+- "Open Language Tools", available at [https://open-language-tools.dev.java.net/](https://web.archive.org/web/20070614003948/https://open-language-tools.dev.java.net/)
 
 
 Once your translation is complete, you can add it in Areca's translation Wiki (http://www.areca-backup.org/arcwk/index.php?title=Translations).
