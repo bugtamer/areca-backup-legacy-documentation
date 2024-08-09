@@ -5,7 +5,12 @@
 
 ## Documentation
 
-The original online sites (areca-backup.org and arecavss.com) are no longer available. See these backups:
+The original online Areca sites:
+
+- `areca-backup.org` was no longer available and now has a new owner since about 2024-07-04.
+- `arecavss.com` is no longer available.
+
+See these backups:
 
 - [areca-backup.org](./areca-backup.org/README.md)
 - [arecavss.com](./arecavss.com//README.md)
