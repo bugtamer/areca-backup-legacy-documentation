@@ -1,5 +1,8 @@
 # Areca Backup
 
+See https://areca-backup.sourceforge.io/ (Olivier PETRUCCI's Areca official site replica)<br>
+Download [Areca Backup 8](https://sourceforge.net/projects/areca-backup/files/)
+
 - [GitHub Pages](https://bugtamer.github.io/areca-backup-legacy-documentation) version
 
 
@@ -7,7 +10,7 @@
 
 The original online Areca sites:
 
-- `areca-backup.org` was no longer available and now has a new owner since about 2024-07-04.
+- `areca-backup.org` was no longer available and now has a new owner since about 2024-07-04.<br>
 - `arecavss.com` is no longer available.
 
 See these backups:
